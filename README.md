@@ -1,5 +1,5 @@
 # Women in History - Final Project
-This is a webpage that is created for the Final Project required for our *HIST1207: Women in History* class.
+This is a webpage template that was created for the Final Project required for our *HIST1207: Women in History* class, but can be used for any school team project subject report.
 
 ## Team MUTE
 
@@ -8,7 +8,7 @@ This is a webpage that is created for the Final Project required for our *HIST12
 2. Navigate to your local directory where you cloned it to
 3. In terminal, `git checkout <yourname>`
 4. Change the filename of `name_article.html` to `<yourname>_article.html`
-5. Scroll down to the comment that says `<!-- Your Content Here -->`
+5. Look for comments like `<!-- Your Content Here -->` and change according to your preference
 6. Cut and paste what you've written
 7. Save your work
 8. Push to your branch `git add .`, `git commit -m 'my commit'`, `git push`
