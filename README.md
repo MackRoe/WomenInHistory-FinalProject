@@ -1,5 +1,7 @@
 # Women in History - Final Project
-This is a webpage template that was created for the Final Project required for our *HIST1207: Women in History* class, but can be used for any school team project subject report.
+This webpage was created for the Final Project required for our *HIST1207: Women in History* class, but can be used for any school team project subject report.
+<p>
+View webpage here: [Female Serial Killers](http://mackroe.tech/WomenInHistory-FinalProject/)
 
 ## Team MUTE
 
