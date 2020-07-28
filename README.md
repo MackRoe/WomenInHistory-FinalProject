@@ -1,9 +1,12 @@
 # Women in History - Final Project
 This webpage was created for the Final Project required for our *HIST1207: Women in History* class, but can be used for any school team project subject report.
 <p>
-View webpage here: [Female Serial Killers](http://mackroe.tech/WomenInHistory-FinalProject/)
+View webpage here:
+<a href="http://mackroe.tech/WomenInHistory-FinalProject/">Female Serial Killers</a>
 
-## Team MUTE
+
+## [Team MUTE](ourteam.html)
+
 
 ## Instructions for Use
 1. Clone this repo
