@@ -18,3 +18,7 @@ View webpage here:
 7. Save your work
 8. Push to your branch `git add .`, `git commit -m 'my commit'`, `git push`
 9. Post in #mute Slack channel when you're done to tell us you're ready for your branch to be merged with master.
+
+## History Buffs
+### Add Me to the Team
+Open an issue to request to be added as a collaborator. Include in request your GitHub user name and the basis for your interest (i.e. Scholar, Researcher, etc), and any affiliations (school name, foundation, or organization)
