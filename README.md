@@ -10,7 +10,7 @@ View webpage here:
 
 ## Instructions for Use
 1. Clone this repo
-2. Navigate to your local directory where you cloned it to
+2. Navigate to your local directory where you cloned it to and create your branch by typing the following into your terminal `git branch <yourname>`
 3. In terminal, `git checkout <yourname>`
 4. Change the filename of `name_article.html` to `<yourname>_article.html`
 5. Look for comments like `<!-- Your Content Here -->` and change according to your preference
